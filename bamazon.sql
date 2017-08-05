@@ -8,10 +8,10 @@ CREATE TABLE products (
     department_name VARCHAR(255),
     price DECIMAL,
     stock_quantity INT,
-    PRIMARY KEY (id)
+    PRIMARY KEY (item_id)
     );
 
-INSERT INTO products (product_name, deparment_name, price, stock_quanity) VALUES
+INSERT INTO products (product_name, department_name, price, stock_quantity) VALUES
 ('NES', 'Video Games', 99.99, 10),
 ('Super Nintendo', 'Video Games', 149.99, 20),
 ('Sega Genesis', 'Video Games', 149.98, 50),
