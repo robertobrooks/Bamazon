@@ -29,3 +29,4 @@ Here are the steps followed to create this application (with some screenshots):
 ![outofstock](https://user-images.githubusercontent.com/2281419/29011249-1f25b172-7af7-11e7-9dba-f1224fb547ec.png)
 
 8. If there's enough quantity of the product, it fulfills the customer's order.
+![updatedtable](https://user-images.githubusercontent.com/2281419/29011333-bafbde00-7af7-11e7-922f-cdf4666051d4.png)
