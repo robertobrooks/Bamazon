@@ -25,6 +25,7 @@ Here are the steps followed to create this application (with some screenshots):
    * how many units of the product they would like to buy.
 
 7. Once the customer has placed the order, the application checks if the store has enough of the product to meet the customer's request.
-   * If not, the app should log a phrase like `Insufficient quantity!`, and then prevent the order from going through.
+   * If not, the app displays `Sorry, out of stock!`, and then prevent the order from going through.
+![outofstock](https://user-images.githubusercontent.com/2281419/29011249-1f25b172-7af7-11e7-9dba-f1224fb547ec.png)
 
 8. If there's enough quantity of the product, it fulfills the customer's order.
