@@ -1,5 +1,3 @@
-CREATE DATABASE bamazon;
-
 USE bamazon;
 
 CREATE TABLE products (
@@ -21,4 +19,4 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) VALU
 ('Goose Island - Summer Time', 'Beer', 11.99, 500),
 ('Goose Island - Matilda', 'Beer', 12.99, 300),
 ('Half Acre - Daisy Cutter', 'Beer', 13.99, 750),
-('Half Acre - Pony', 'Beer', 8.99, 400)
+('Half Acre - Pony', 'Beer', 8.99, 400);
